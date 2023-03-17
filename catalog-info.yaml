@@ -8,6 +8,8 @@ metadata:
     - url: https://dashboard.example.com
       title: My Dashboard
       icon: dashboard
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
