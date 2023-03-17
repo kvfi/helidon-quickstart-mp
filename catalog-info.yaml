@@ -14,3 +14,5 @@ spec:
   owner: guests
   dependsOn:
     - resource:default/artists-db
+  subcomponentOf:
+    - test/test
