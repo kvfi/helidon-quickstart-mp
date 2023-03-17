@@ -12,7 +12,3 @@ spec:
   type: other
   lifecycle: unknown
   owner: guests
-  dependsOn:
-    - resource:default/artists-db
-  subcomponentOf:
-    - test/test
